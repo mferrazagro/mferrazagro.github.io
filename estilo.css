@@ -1,0 +1,41 @@
+header{
+    text-align: center;
+
+}
+img{
+    border-radius: 50%;
+    border: 8px solid gray;
+}
+
+.titulo{
+    font-size: 48px;
+    color: darkblue;
+}
+
+.subtitulo{
+    font-size: 36px;
+    color: darkred;
+}
+
+.contato{
+    font-size: 24px;
+    font-family: Arial;
+    font-weight: bold;
+    line-height: 150%;
+}
+
+.cursos{
+    text-align: center;  
+    font-size: 24px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.cursos1{
+    text-align: center;
+    font-size: 20px;
+}
+
+body{
+    background-color: gray;
+}
